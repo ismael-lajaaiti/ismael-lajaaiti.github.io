@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Ismaël Lajaaiti"
+  favicon: logo.jpg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - software.qmd
+    tools: 
+      - icon: github
+        href: https://github.com/ismael-lajaaiti
+      - icon: journal-bookmark-fill
+        href: https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao
+      - background: light
+  page-footer:
+    center: "Copyright (c) 2026 Ismaël Lajaaiti. All Rights Reserved."
+
+format:
+  html:
+    theme:
+      - minty
+    css: styles.css
+    toc: true
+
+
+

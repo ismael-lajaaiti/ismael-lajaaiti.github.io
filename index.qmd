@@ -1,0 +1,41 @@
+---
+title: Ismaël Lajaaiti
+image: img/alain_capybara_tanya.png
+alt-image: ""
+about:
+  template: trestles
+  id: hero-heading
+  links:
+    - icon: mailbox
+      text: Mail
+      href: mailto:ismael.lajaaiti@inrae.fr
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/ismael-lajaaiti
+---
+
+:::{#hero-heading}
+
+I work as an INRAE researcher in [DECOD lab](https://www.umr-decod.fr/en) at Rennes in France.
+
+My research aims to understand how anthropogenic pressures alter ecological
+communities and ultimately disrupt ecosystem functioning. This is a complex
+challenge because community responses emerge from both the diversity of
+species-specific reactions to environmental changes and the intricate networks
+of interactions among species. My work integrates these interaction networks
+into theoretical and applied ecology to address a central question: How do
+species interactions mediate the effects of environmental pressures on
+ecological systems—particularly in community assembly, ecosystem functioning,
+and stability?
+
+You can have a look at my [research projects](project.html) and my
+[publications](publications.html). You can also retrieve my work on [google
+scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
+[research gate](https://www.researchgate.net/profile/Alain-Danet).
+
+You can reach me at [ismael.lajaaiti[at]inrae.fr](mailto:ismael.lajaaiti@inrae.fr).
+
+:::

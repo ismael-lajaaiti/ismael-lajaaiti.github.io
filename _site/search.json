@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ismaël Lajaaiti",
+    "section": "",
+    "text": "Mail\n  \n  \n    \n     Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \nI work as an INRAE researcher in DECOD lab at Rennes in France.\nMy research aims to understand how anthropogenic pressures alter ecological communities and ultimately disrupt ecosystem functioning. This is a complex challenge because community responses emerge from both the diversity of species-specific reactions to environmental changes and the intricate networks of interactions among species. My work integrates these interaction networks into theoretical and applied ecology to address a central question: How do species interactions mediate the effects of environmental pressures on ecological systems—particularly in community assembly, ecosystem functioning, and stability?\nYou can have a look at my research projects and my publications. You can also retrieve my work on google scholar and research gate.\nYou can reach me at ismael.lajaaiti[at]inrae.fr."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "What I research I do."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Ismaël Lajaaiti",
+    "section": "CV",
+    "text": "CV\n\nPhD in theoretical ecology - Sonia Kéfi and Jean-François Arnoldi"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ismaël Lajaaiti",
+    "section": "Experience",
+    "text": "Experience\n\nCurrent\nPostdoctoral position in quantitative Ecology INRAE Rennes\n\n\nPast\nPhhD in theoretical ecology - Sonia Kéfi and Jean-François Arnoldi"
+  },
+  {
+    "objectID": "index.html#title",
+    "href": "index.html#title",
+    "title": "Ismaël Lajaaiti",
+    "section": "",
+    "text": "I am a postdoctoral researcher in quantitative ecology at INRAE Rennes (DECOD). I am interested in how ecological communities respond to disturbances. During my PhD in Montpellier (France), I have used mathematical model to understand how biotic interactions shape shape species reponse to disturbances, such as warming. I am now using statistical models to assess the impact of dams and nutrients on food webs in rivers."
+  }
+]
