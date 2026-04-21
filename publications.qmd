@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+You can retrieve all my publications on [google
+scholar](https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao).
+
+::: {.callout-warning}
+Work in progress
+:::
+
+## Selected publications
+
+1. Lajaaiti, I., Kéfi, S., J-F., Arnoldi (2026).  
+  **Linking biotic interactions to species stability**  
+  *Ecology Letters*. 
+  TO UPDATE WHEN PUBLISHED
+
+1. Lajaaiti, I., Bonnici, I., Kéfi, S., Mayall, H., Danet, A., Beckerman, A. P.,
+   ... & Delmas, E. (2025).  
+  **EcologicalNetworksDynamics. jl: A Julia package to
+  simulate the temporal dynamics of complex ecological networks.**  
+  *Methods in Ecology and Evolution*, 16(3), 520-529. [doi.org/10.1111/2041-210X.14497](https://doi.org/10.1111/2041-210X.14497)
+

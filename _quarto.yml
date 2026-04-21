@@ -4,28 +4,22 @@ project:
 
 website:
   title: "Ismaël Lajaaiti"
-  favicon: logo.jpg
+  favicon: assets/logo.jpg
   navbar:
     left:
       - href: index.qmd
         text: Home
       - research.qmd
       - software.qmd
-    tools: 
-      - icon: github
-        href: https://github.com/ismael-lajaaiti
-      - icon: journal-bookmark-fill
-        href: https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao
-      - background: light
+      - publications.qmd
+      - resume.qmd
   page-footer:
-    center: "Copyright (c) 2026 Ismaël Lajaaiti. All Rights Reserved."
+    center: "Copyright (c) 2026 Ismaël Lajaaiti. All Rights Reserved. Generated with Quarto."
 
 format:
   html:
     theme:
-      - minty
+      - sandstone
     css: styles.css
     toc: true
-
-
 

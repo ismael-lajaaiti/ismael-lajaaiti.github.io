@@ -1,0 +1,33 @@
+---
+title: "Resume"
+---
+
+
+## Experience
+
+- **Current** — *Postdoctoral Researcher*  
+  with A. Danet, A. Brind'Amour, and E. Edeline  
+  INRAE (DECOD), Rennes, France  
+
+- **2022–2025** — *PhD in Theoretical Ecology*  
+  with S. Kéfi and J.-F. Arnoldi  
+  University of Montpellier, Montpellier, France  
+
+- **2022** — *Master’s Thesis in Statistics for Macroecology*  
+  with F. Hartig  
+  University of Regensburg, Germany  
+
+- **2021** — *Research Internship in Complex Systems Modelling*  
+  with P. Jensen  
+  IXXI, Lyon, France  
+
+## Education
+
+- **2020** — *Master in Complex Systems*  
+  ENS de Lyon, Lyon, France  
+
+- **2018** — *BSc in Physics*  
+  ENS de Lyon, Lyon, France  
+
+- **2016** — *Preparatory Classes for Grandes Écoles (CPGE) in Physics*  
+  Lycée Louis-le-Grand, Paris, France  

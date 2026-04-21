@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "What I research I do."
+    "text": "Current — Postdoctoral Researcher\nwith A. Danet, A. Brind’Amour, and E. Edeline\nINRAE (DECOD), Rennes, France\n2022–2025 — PhD in Theoretical Ecology\nwith S. Kéfi and J.-F. Arnoldi\nUniversity of Montpellier, Montpellier, France\n2022 — Master’s Thesis in Statistics for Macroecology\nwith F. Hartig\nUniversity of Regensburg, Germany\n2021 — Research Internship in Complex Systems Modelling\nwith P. Jensen\nIXXI, Lyon, France"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Current — Postdoctoral Researcher\nwith A. Danet, A. Brind’Amour, and E. Edeline\nINRAE (DECOD), Rennes, France\n2022–2025 — PhD in Theoretical Ecology\nwith S. Kéfi and J.-F. Arnoldi\nUniversity of Montpellier, Montpellier, France\n2022 — Master’s Thesis in Statistics for Macroecology\nwith F. Hartig\nUniversity of Regensburg, Germany\n2021 — Research Internship in Complex Systems Modelling\nwith P. Jensen\nIXXI, Lyon, France"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\n2020 — Master in Complex Systems\nENS de Lyon, Lyon, France\n2018 — BSc in Physics\nENS de Lyon, Lyon, France\n2016 — Preparatory Classes for Grandes Écoles (CPGE) in Physics\nLycée Louis-le-Grand, Paris, France"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "You can retrieve all my publications on google scholar."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nLajaaiti, I., Kéfi, S., J-F., Arnoldi (2026).\nLinking biotic interactions to species stability\nEcology Letters. TO UPDATE WHEN PUBLISHED\nLajaaiti, I., Bonnici, I., Kéfi, S., Mayall, H., Danet, A., Beckerman, A. P., … & Delmas, E. (2025).\nEcologicalNetworksDynamics. jl: A Julia package to simulate the temporal dynamics of complex ecological networks.\nMethods in Ecology and Evolution, 16(3), 520-529. doi.org/10.1111/2041-210X.14497"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ismaël Lajaaiti",
     "section": "",
-    "text": "Mail\n  \n  \n    \n     Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \nI work as an INRAE researcher in DECOD lab at Rennes in France.\nMy research aims to understand how anthropogenic pressures alter ecological communities and ultimately disrupt ecosystem functioning. This is a complex challenge because community responses emerge from both the diversity of species-specific reactions to environmental changes and the intricate networks of interactions among species. My work integrates these interaction networks into theoretical and applied ecology to address a central question: How do species interactions mediate the effects of environmental pressures on ecological systems—particularly in community assembly, ecosystem functioning, and stability?\nYou can have a look at my research projects and my publications. You can also retrieve my work on google scholar and research gate.\nYou can reach me at ismael.lajaaiti[at]inrae.fr."
+    "text": "Mail\n  \n  \n    \n     Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \nI work as an INRAE postdoctoral researcher in DECOD lab at Rennes in France.\nSpecies do not live in isolation: they eat, compete, and help one another within complex webs of interactions. These interactions play a key role in shaping how species respond to disturbances. However, interaction webs are very complex, which makes it difficult to understand how interactions translate into species responses. Because of this, we still lack a clear picture of how interspecific interactions affect the stability of species within their communities. My research aims to better understand this link.\nI combine data analysis and theoretical modelling in my work. My goal is to develop the skills to work across the whole pipeline, from data to theory, in the hope to provide clear and coherent answers to complex ecological problems.\nYou can have a look at my research projects and my publications. You can also retrieve my work on google scholar. You can also have a look at my resume.\nYou can reach me at ismael.lajaaiti[at]inrae.fr."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Warning\n\n\n\nWork in progress"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Warning\n\n\n\nWork in progress"
   }
 ]

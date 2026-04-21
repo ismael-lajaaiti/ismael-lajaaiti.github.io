@@ -10,5 +10,11 @@
   },
   "software.qmd": {
     "software.html": "54ce8e27"
+  },
+  "publications.qmd": {
+    "publications.html": "02f70a29"
+  },
+  "resume.qmd": {
+    "resume.html": "1a454cb8"
   }
 }
