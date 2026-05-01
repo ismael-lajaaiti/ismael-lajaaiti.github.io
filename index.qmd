@@ -3,7 +3,7 @@ title: Ismaël Lajaaiti
 image: assets/photo-ismael.png
 alt-image: ""
 about:
-  template: trestles
+  template: jolla
   id: hero-heading
   links:
     - icon: mailbox
@@ -12,6 +12,9 @@ about:
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/ismael-lajaaiti.bsky.social
     - icon: github
       text: Github
       href: https://github.com/ismael-lajaaiti
@@ -19,26 +22,19 @@ about:
 
 :::{#hero-heading}
 
-I work as an INRAE postdoctoral researcher in
-[DECOD lab](https://www.umr-decod.fr/en) at Rennes in France.
+I am a postdoctoral researcher at [INRAE](https://www.inrae.fr/en),
+based in the [DECOD lab](https://www.umr-decod.fr/en) in Rennes, France.
 
-Species do not live in isolation: they eat, compete, and help one another within
-complex webs of interactions. These interactions play a key role in shaping how
-species respond to disturbances. However, interaction webs are very complex,
-which makes it difficult to understand how interactions translate into species
-responses. Because of this, we still lack a clear picture of how interspecific
-interactions affect the stability of species within their communities. My
-research aims to better understand this link.
-
-I combine data analysis and theoretical modelling in my work. My goal is to
-develop the skills to work across the whole pipeline, from data to theory, in
-the hope to provide clear and coherent answers to complex ecological problems.
+My work combines data analysis, statistics, and theoretical modeling to address
+fundamental questions in ecology. In particular, I have sustaine interest in
+network ecology, species and community stability, and the development of
+open-source tools in R and Julia.
 
 You can have a look at my [research projects](project.html) and my
 [publications](publications.html). You can also retrieve my work on [google
-scholar](https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao).
-You can also have a look at my [resume](resume.html).
+scholar](https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao)
+and have a look at my [resume](resume.html).
 
-You can reach me at [ismael.lajaaiti[at]inrae.fr](mailto:ismael.lajaaiti@inrae.fr).
+Feel free to reach at [ismael.lajaaiti[at]inrae.fr](mailto:ismael.lajaaiti@inrae.fr).
 
 :::
