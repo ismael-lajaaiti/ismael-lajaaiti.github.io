@@ -7,7 +7,7 @@ scholar](https://scholar.google.com/citations?user=ebpnCOUAAAAJ&hl=en&oi=ao).
 
 ## Selected publications
 
-1. Lajaaiti, I., Kéfi, S., J-F., Arnoldi (2026).  
+1. Lajaaiti, I., Kéfi, S., Loreau, M., Ardichvili, A., & Arnoldi, J. F. (2026).  
   **Linking biotic interactions to species stability**  
   *Ecology Letters*, 29(4), e70385. [doi.org/10.1111/ele.70385](https://doi.org/10.1111/ele.70385)
 
