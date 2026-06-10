@@ -2,11 +2,5 @@
 title: "Outreach"
 ---
 
-<iframe src="apps/population/index.html" 
-        width="100%" height="650px" 
-        frameborder="0">
-</iframe>
+- [An app to introduce modelling in Ecology to highschool students](https://ismael-lajaaiti.github.io/population-app/)
 
-::: {.callout-warning}
-Work in progress
-:::

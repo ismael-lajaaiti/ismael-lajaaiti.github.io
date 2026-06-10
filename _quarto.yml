@@ -10,8 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - software.qmd
       - publications.qmd
+      - talks.qmd
       - outreach.qmd
       - resume.qmd
   page-footer:
@@ -23,7 +23,4 @@ format:
       - sandstone
     css: styles.css
     toc: true
-
-resources:
-  - apps/
 
