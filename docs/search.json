@@ -35,6 +35,13 @@
     "text": "Selected publications\n\nLajaaiti, I., Kéfi, S., Loreau, M., Ardichvili, A., & Arnoldi, J. F. (2026).\nLinking biotic interactions to species stability\nEcology Letters, 29(4), e70385. doi.org/10.1111/ele.70385\nLajaaiti, I., Bonnici, I., Kéfi, S., Mayall, H., Danet, A., Beckerman, A. P., … & Delmas, E. (2025).\nEcologicalNetworksDynamics. jl: A Julia package to simulate the temporal dynamics of complex ecological networks.\nMethods in Ecology and Evolution, 16(3), 520-529. doi.org/10.1111/2041-210X.14497"
   },
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Warning\n\n\n\nWork in progress"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ismaël Lajaaiti",
@@ -42,9 +49,9 @@
     "text": "I am a postdoctoral researcher at INRAE, based in the DECOD lab in Rennes, France.\nMy work combines data analysis, statistics, and theoretical modeling to address fundamental questions in ecology. In particular, I have sustaine interest in network ecology, species and community stability, and the development of open-source tools in R and Julia.\nYou can have a look at my research projects and my publications. You can also retrieve my work on google scholar and have a look at my resume.\nFeel free to reach at ismael.lajaaiti[at]inrae.fr.\n \n  \n   \n  \n    \n     Mail\n  \n  \n    \n     Scholar\n  \n  \n    \n     Bluesky\n  \n  \n    \n     Github"
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
     "section": "",
     "text": "Warning\n\n\n\nWork in progress"
   },

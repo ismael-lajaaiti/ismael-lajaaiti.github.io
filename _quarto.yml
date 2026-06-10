@@ -12,6 +12,7 @@ website:
       - research.qmd
       - software.qmd
       - publications.qmd
+      - outreach.qmd
       - resume.qmd
   page-footer:
     center: "Copyright (c) 2026 Ismaël Lajaaiti. All Rights Reserved. Generated with Quarto."
